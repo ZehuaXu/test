@@ -18,14 +18,12 @@ dir([object])    #显示对象属性
 
 | 起始行 | \#/usr/bin/env python |
 | :---: | :---: |
-| 模块文件 |  |
-| 模块导入 |  |
-| 变量定义 |  |
-| 类定义 |  |
-| 函数定义 |  |
-| 主函数 |  |
-
-
+| 模块文件 | "this a module to do what" |
+| 模块导入 | import \*\* |
+| 变量定义 | global variables |
+| 类定义 | class \*\* : |
+| 函数定义 | def \*\* : |
+| 主函数 | if \_\_name\_\_ == '\_\_main\_\_' |
 
 
 
