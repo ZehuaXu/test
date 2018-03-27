@@ -1,3 +1,6 @@
-# First Chapter
+# Exec\(\)
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+exec\(\)
+
+实际上，python解释器遇到exec\(\)函数时，会独立执行字符串内的语句。如果还有传参，那都是定义变量的字典。解释器，不会寻找字符串外的语法结构。也就是说，在这个例子中，解释器会独立执行语句
+
